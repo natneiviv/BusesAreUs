@@ -1,0 +1,60 @@
+[
+  {
+    "AtStreet": "BIDWELL ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28646,
+    "Longitude": -123.14043,
+    "StopNo": 50001,
+    "OnStreet": "DAVIE ST",
+    "Routes": "C23",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "EB BEACH AVE FS BURNABY ST",
+    "AtStreet": "BURNABY ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28586,
+    "Longitude": -123.14268,
+    "StopNo": 50002,
+    "OnStreet": "BEACH AVE",
+    "Routes": "C21",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "EB W 16 AVE FS CARNARVON ST",
+    "AtStreet": "CARNARVON ST",
+    "WheelchairAccess": 0,
+    "BayNo": "N",
+    "Latitude": 49.25758,
+    "Longitude": -123.17186,
+    "StopNo": 50055,
+    "OnStreet": "W 16 AVE",
+    "Routes": "002, 033",
+    "City": "VANCOUVER"
+  },
+  {
+    "AtStreet": "W 16 AVE",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.25808,
+    "Longitude": -123.16831,
+    "StopNo": 50056,
+    "OnStreet": "MACDONALD ST",
+    "Routes": "002, N22",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "NB MACDONALD ST FS W 14 AVE",
+    "AtStreet": "W 14 AVE",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.25987,
+    "Longitude": -123.16825,
+    "StopNo": 50057,
+    "OnStreet": "MACDONALD ST",
+    "Routes": "002, N22",
+    "City": "VANCOUVER"
+  }
+  ]

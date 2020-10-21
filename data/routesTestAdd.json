@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "DOWNTOWN/SFU NIGHTBUS",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "SFU NIGHTBUS",
+        "Direction": "EAST",
+        "PatternNo": "EB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N35-EB1.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN NIGHTBUS",
+        "Direction": "WEST",
+        "PatternNo": "WB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N35-WB1.kmz"
+        }
+      }
+    ]
+  },
+  {
+    "Name": "DOWNTOWN/FRASER NIGHTBUS",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "FRASER NIGHTBUS",
+        "Direction": "EAST",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N8-EB2.kmz"
+        }
+      },
+      {
+        "Direction": "WEST",
+        "PatternNo": "WB2",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N8-WB2.kmz"
+        }
+      }
+    ],
+    "RouteNo": "N8"
+  },
+  {
+    "Name": "DOWNTOWN/COQUITLAM STN NIGHTBUS",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "COQ STN NIGHTBUS",
+        "PatternNo": "EB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N9-EB1.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN NIGHTBUS",
+        "Direction": "WEST",
+        "PatternNo": "WB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N9-WB1.kmz"
+        }
+      }
+    ],
+    "RouteNo": "N9"
+  }
+
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "NEW WESTMINSTER STN/LOUGHEED STN",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "LOUGHEED STN",
+        "Direction": "NORTH",
+        "PatternNo": "NB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/C9-NB1.kmz"
+        }
+      },
+      {
+        "Destination": "LOUGHEED STN",
+        "Direction": "NORTH",
+        "PatternNo": "NB1DT",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/C9-NB1DT.kmz"
+        }
+      },
+      {
+        "Destination": "NEW WEST STN",
+        "Direction": "SOUTH",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/C9-SB1.kmz"
+        }
+      },
+      {
+        "Destination": "NEW WEST STN",
+        "Direction": "SOUTH",
+        "PatternNo": "SB1DT",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/C9-SB1DT.kmz"
+        }
+      }
+    ],
+    "RouteNo": "C9"
+  },
+  {
+    "Name": "BRIDGEPORT STATION/SEA ISLAND SOUTH",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "BRIDGEPORT STN",
+        "Direction": "EAST",
+        "PatternNo": "EB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/C92-EB1.kmz"
+        }
+      },
+      {
+        "Destination": "BRIDGEPORT STN",
+        "Direction": "EAST",
+        "PatternNo": "EB2",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/C92-EB2.kmz"
+        }
+      },
+      {
+        "Destination": "SEA ISLAND SOUTH",
+        "Direction": "WEST",
+        "PatternNo": "WB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/C92-WB1.kmz"
+        }
+      },
+      {
+        "Destination": "SEA ISLAND SOUTH",
+        "Direction": "WEST",
+        "PatternNo": "WB1PM",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/C92-WB1PM.kmz"
+        }
+      }
+    ],
+    "RouteNo": "C92"
+  }
+]

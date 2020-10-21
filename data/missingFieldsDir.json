@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "MACDONALD/DOWNTOWN ",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "BURRARD STN",
+        "Direction": "EAST",
+        "PatternNo": "EB3",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-EB3.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN",
+        "PatternNo": "EB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-EB1.kmz"
+        }
+      }
+    ]
+  }
+  ]

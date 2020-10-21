@@ -1,0 +1,49 @@
+[
+  {
+    "AtStreet": "HOWE ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.27755,
+    "Longitude": -123.12698,
+    "StopNo": 50011,
+    "OnStreet": "DAVIE ST",
+    "Routes": "006, C23",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "EB PACIFIC ST FS RICHARDS ST",
+    "AtStreet": "RICHARDS ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.27755,
+    "Longitude": -123.12733,
+    "StopNo": 50013,
+    "OnStreet": "PACIFIC ST",
+    "Routes": "C21",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "EB PACIFIC BLVD FS HOMER ST",
+    "AtStreet": "HOMER ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.27343,
+    "Longitude": -123.12556,
+    "StopNo": 50014,
+    "OnStreet": "PACIFIC BLVD",
+    "Routes": "C21",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "EB PACIFIC BLVD FS DRAKE ST",
+    "AtStreet": "DRAKE ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.27343,
+    "Longitude": -123.12556,
+    "StopNo": 50015,
+    "OnStreet": "PACIFIC BLVD",
+    "Routes": "C21",
+    "City": "VANCOUVER"
+  }
+  ]

@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "MAIN/DOWNTOWN                  ",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "DOWNTOWN",
+        "Direction": "NORTH",
+        "PatternNo": "NB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/003-NB1.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN",
+        "Direction": "NORTH",
+        "PatternNo": "NB1STN",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/003-NB1STN.kmz"
+        }
+      },
+      {
+        "Direction": "SOUTH",
+        "PatternNo": "SB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/003-SB1.kmz"
+        }
+      }
+    ],
+    "RouteNo": "003"
+  }
+  ]

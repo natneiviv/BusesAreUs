@@ -1,0 +1,84 @@
+[  {
+  "Name": "DOWNTOWN/SURREY CNTRL STN NIGHTBUS",
+  "OperatingCompany": "CMBC",
+  "Patterns": [
+    {
+      "Destination": "NEW WEST STN",
+      "Direction": "EAST",
+      "PatternNo": "EB2",
+      "RouteMap": {
+        "Href": "http://nb.translink.ca/geodata/trip/N19-EB2.kmz"
+      }
+    },
+    {
+      "Destination": "SRY CTRL STN NIGHTBUS",
+      "Direction": "EAST",
+      "PatternNo": "EB1SUR",
+      "RouteMap": {
+        "Href": "http://nb.translink.ca/geodata/trip/N19-EB1SUR.kmz"
+      }
+    },
+    {
+      "Destination": "DOWNTOWN NIGHTBUS",
+      "Direction": "WEST",
+      "PatternNo": "WB1SUR",
+      "RouteMap": {
+        "Href": "http://nb.translink.ca/geodata/trip/N19-WB1SUR.kmz"
+      }
+    }
+  ]
+},
+  {
+    "Name": "DOWNTOWN/VICTORIA NIGHTBUS",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "DOWNTOWN NIGHTBUS",
+        "Direction": "NORTH",
+        "PatternNo": "NB2",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N20-NB2.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN NIGHTBUS",
+        "Direction": "NORTH",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N20-NB3.kmz"
+        }
+      },
+      {
+        "Destination": "VICTORIA NIGHTBUS",
+        "Direction": "SOUTH",
+        "PatternNo": "SB2",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N20-SB2.kmz"
+        }
+      }
+    ],
+    "RouteNo": "N20"
+  },
+  {
+    "Name": "DOWNTOWN/MACDONALD NIGHTBUS",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "DOWNTOWN NIGHTBUS",
+        "Direction": "NORTH",
+        "PatternNo": "NB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N22-NB1.kmz"
+        }
+      },
+      {
+        "Destination": "MACDONALD NIGHTBUS",
+        "Direction": "SOUTH",
+        "PatternNo": "SB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/N22-SB1.kmz"
+        }
+      }
+    ],
+    "RouteNo": "N22"
+  }
+]
